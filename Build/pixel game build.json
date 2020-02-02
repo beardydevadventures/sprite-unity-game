@@ -1,0 +1,13 @@
+{
+"companyName": "Aisbros",
+"productName": "Pixel Adventure",
+"dataUrl": "pixel game build.data.unityweb",
+"asmCodeUrl": "pixel game build.asm.code.unityweb",
+"asmMemoryUrl": "pixel game build.asm.memory.unityweb",
+"asmFrameworkUrl": "pixel game build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
